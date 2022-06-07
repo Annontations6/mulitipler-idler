@@ -1,0 +1,13 @@
+span.rotate {
+    direction: 180;
+}
+
+h1.ter {
+    color: white;
+}
+
+body {
+    font-family:Comic Sans MS;
+    background-color: red;
+    position: absolute;
+}

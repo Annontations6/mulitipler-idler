@@ -1,0 +1,7 @@
+achievement.unlocked {
+    background-color: red;
+}
+
+achievement.locked {
+    background-color: green;
+}
